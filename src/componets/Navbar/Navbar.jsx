@@ -5,15 +5,15 @@ const Navbar = () => {
     <NavLink
      className={({ isActive}) => isActive ? 
 
-      'text-red-700 font-bold underline text-lg mx-3': 'font-bold text-lg mx-3'} to='/'>Home</NavLink>
+      'btn btn-outline btn-primary font-bold text-lg mx-3': 'font-bold text-lg mx-3'} to='/'>Home</NavLink>
 
     <NavLink 
     className={({ isActive}) => isActive ? 
-     'text-red-700 font-bold underline text-lg mx-3': 'font-bold text-lg mx-3'} to='/Listed'>Listed Books</NavLink>
+     'btn btn-outline btn-primary font-bold text-lg mx-3': 'font-bold text-lg mx-3'} to='/Listed'>Listed Books</NavLink>
 
     <NavLink 
     className={({ isActive}) => isActive ?  
-    'text-red-700 font-bold underline text-lg mx-3': 'font-bold text-lg mx-3'} to='/Read'>Pages to Read</NavLink>
+    'btn btn-outline btn-primary font-bold text-lg mx-3': 'font-bold text-lg mx-3'} to='/Read'>Pages to Read</NavLink>
     </div>
   return (
     <div>
@@ -45,7 +45,7 @@ const Navbar = () => {
 
             </ul>
           </div>
-          <a className="btn btn-ghost font-bold text-2xl">Book Vibe</a>
+          <a className="btn btn-ghost font-bold text-3xl">Book Vibe</a>
         </div>
         <div className="navbar-center hidden lg:flex">
           <ul className="menu menu-horizontal px-1">
@@ -56,8 +56,8 @@ const Navbar = () => {
           </ul>
         </div>
         <div className="navbar-end gap-1">
-          <button className="btn btn-success">Sign In</button>
-        <button className="btn btn-warning">Sing Up</button>
+          <button className=" text-lg btn btn-success">Sign In</button>
+        <button className=" text-lg btn btn-warning">Sing Up</button>
         </div>
       </div>
     </div>
