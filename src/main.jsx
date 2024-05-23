@@ -9,14 +9,17 @@ import Root from './componets/Root/Root.jsx';
 import ListedBooks from './componets/ListedBooks/ListedBooks.jsx';
 import RedPage from './componets/RedPage/RedPage.jsx';
 import Home from './componets/Home/Home.jsx';
+import ErrorElements from './componets/ErrorElements/ErrorElements.jsx';
 const router = createBrowserRouter([
   {
     path: "/",
     element: <Root></Root>,
+    errorElement: <ErrorElements></ErrorElements>,
     children: [
       {
       path: "/",
       element: <Home></Home>
+      
       },
       {
         path: "/Listed",

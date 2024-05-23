@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "author": "Haruki Murakami",
+        "image": "https://example.com/images/norwegianwood.jpg",
+        "review": "A beautifully written novel that explores themes of love, loss, and mental illness.",
+        "totalPages": 296,
+        "rating": 4.5,
+        "category": "Fiction",
+        "tags": ["Romance", "Psychological", "Literary"],
+        "publisher": "Vintage",
+        "yearOfPublishing": 1987
+    },
+    {
+        "id": 2,
+        "author": "J.K. Rowling",
+        "image": "https://example.com/images/harrypotter.jpg",
+        "review": "An enchanting start to a magical series that captures the imagination of readers of all ages.",
+        "totalPages": 309,
+        "rating": 4.8,
+        "category": "Fantasy",
+        "tags": ["Magic", "Adventure", "Young Adult"],
+        "publisher": "Bloomsbury",
+        "yearOfPublishing": 1997
+    },
+    {
+        "id": 3,
+        "author": "George Orwell",
+        "image": "https://example.com/images/1984.jpg",
+        "review": "A chilling depiction of a dystopian future that remains relevant in today's society.",
+        "totalPages": 328,
+        "rating": 4.7,
+        "category": "Dystopian",
+        "tags": ["Political", "Science Fiction", "Classic"],
+        "publisher": "Secker & Warburg",
+        "yearOfPublishing": 1949
+    },
+    {
+        "id": 4,
+        "author": "Jane Austen",
+        "image": "https://example.com/images/prideandprejudice.jpg",
+        "review": "A timeless romance that offers a witty critique of class and societal expectations.",
+        "totalPages": 279,
+        "rating": 4.6,
+        "category": "Romance",
+        "tags": ["Classic", "Literary", "Social Commentary"],
+        "publisher": "T. Egerton",
+        "yearOfPublishing": 1813
+    },
+    {
+        "id": 5,
+        "author": "Markus Zusak",
+        "image": "https://example.com/images/thebookthief.jpg",
+        "review": "A poignant and heartbreaking story set during World War II, narrated by Death.",
+        "totalPages": 584,
+        "rating": 4.4,
+        "category": "Historical Fiction",
+        "tags": ["War", "Literary", "Young Adult"],
+        "publisher": "Picador",
+        "yearOfPublishing": 2005
+    },
+    {
+        "id": 6,
+        "author": "Yuval Noah Harari",
+        "image": "https://example.com/images/sapiens.jpg",
+        "review": "An insightful and thought-provoking exploration of the history and impact of Homo sapiens.",
+        "totalPages": 443,
+        "rating": 4.6,
+        "category": "Non-Fiction",
+        "tags": ["History", "Anthropology", "Science"],
+        "publisher": "Harvill Secker",
+        "yearOfPublishing": 2014
+    }
+]
