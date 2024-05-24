@@ -2,7 +2,7 @@
     {
         "id": 1,
         "author": "Haruki Murakami",
-        "image": "https://example.com/images/norwegianwood.jpg",
+        "image": "https://i.ibb.co/B3drDcx/pwd.png",
         "review": "A beautifully written novel that explores themes of love, loss, and mental illness.",
         "totalPages": 296,
         "rating": 4.5,
@@ -14,7 +14,7 @@
     {
         "id": 2,
         "author": "J.K. Rowling",
-        "image": "https://example.com/images/harrypotter.jpg",
+        "image": "https://i.ibb.co/FX9X5sb/main-qimg-bab5049dbfca5eb29fce959718bdc21c-lq.jpg",
         "review": "An enchanting start to a magical series that captures the imagination of readers of all ages.",
         "totalPages": 309,
         "rating": 4.8,
@@ -26,7 +26,7 @@
     {
         "id": 3,
         "author": "George Orwell",
-        "image": "https://example.com/images/1984.jpg",
+        "image": "https://i.ibb.co/vzqXD13/images.jpg",
         "review": "A chilling depiction of a dystopian future that remains relevant in today's society.",
         "totalPages": 328,
         "rating": 4.7,
@@ -38,7 +38,7 @@
     {
         "id": 4,
         "author": "Jane Austen",
-        "image": "https://example.com/images/prideandprejudice.jpg",
+        "image": "https://i.ibb.co/rZgWZ93/images-4.jpg",
         "review": "A timeless romance that offers a witty critique of class and societal expectations.",
         "totalPages": 279,
         "rating": 4.6,
@@ -50,7 +50,7 @@
     {
         "id": 5,
         "author": "Markus Zusak",
-        "image": "https://example.com/images/thebookthief.jpg",
+        "image": "https://i.ibb.co/NLBPpxc/images-3.jpg",
         "review": "A poignant and heartbreaking story set during World War II, narrated by Death.",
         "totalPages": 584,
         "rating": 4.4,
@@ -62,7 +62,43 @@
     {
         "id": 6,
         "author": "Yuval Noah Harari",
-        "image": "https://example.com/images/sapiens.jpg",
+        "image": "https://i.ibb.co/smXFXPw/images-2.jpg",
+        "review": "An insightful and thought-provoking exploration of the history and impact of Homo sapiens.",
+        "totalPages": 443,
+        "rating": 4.6,
+        "category": "Non-Fiction",
+        "tags": ["History", "Anthropology", "Science"],
+        "publisher": "Harvill Secker",
+        "yearOfPublishing": 2014
+    },
+    {
+        "id": 7,
+        "author": "Yuval Noah Harari",
+        "image": "https://i.ibb.co/7J9ydVF/book-32542021-11-08-1636375756.jpg",
+        "review": "An insightful and thought-provoking exploration of the history and impact of Homo sapiens.",
+        "totalPages": 443,
+        "rating": 4.6,
+        "category": "Non-Fiction",
+        "tags": ["History", "Anthropology", "Science"],
+        "publisher": "Harvill Secker",
+        "yearOfPublishing": 2014
+    },
+    {
+        "id": 8,
+        "author": "Yuval Noah Harari",
+        "image": "https://i.ibb.co/smXFXPw/images-2.jpg",
+        "review": "An insightful and thought-provoking exploration of the history and impact of Homo sapiens.",
+        "totalPages": 443,
+        "rating": 4.6,
+        "category": "Non-Fiction",
+        "tags": ["History", "Anthropology", "Science"],
+        "publisher": "Harvill Secker",
+        "yearOfPublishing": 2014
+    },
+    {
+        "id": 9,
+        "author": "Yuval Noah Harari",
+        "image": "https://i.ibb.co/FX9X5sb/main-qimg-bab5049dbfca5eb29fce959718bdc21c-lq.jpg",
         "review": "An insightful and thought-provoking exploration of the history and impact of Homo sapiens.",
         "totalPages": 443,
         "rating": 4.6,
